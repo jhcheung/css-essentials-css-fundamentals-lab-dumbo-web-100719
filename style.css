@@ -33,3 +33,8 @@ a {
   width: 800px;
   margin: 0 auto;
 }
+
+#details {
+  display: block;
+  float: left;
+}
